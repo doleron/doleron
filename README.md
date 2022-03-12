@@ -41,4 +41,4 @@ skils = {
 
 ### My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=doleron&show_icons=true&theme=gotham", alt="doleron" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=doleron&show_icons=true&theme=gotham", alt="doleron"></p>
