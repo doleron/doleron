@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://www.linkedin.com/in/doleron/">
+  <img align="left" alt="doleron's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<a href="https://www.kaggle.com/doleron">
+  <img align="left" alt="doleron's kaggle" height="22px" src="https://www.kaggle.com/static/images/site-logo.svg" />
+</a>
+
+<br />
+
+### About Me
+
+```python
+skils = {
+  code: ['C++', 'java', 'JavaScript'],
+  also_code : ['R', 'C', 'Python'],
+  love: ['machine learning', 'AI', 'computer vision', 'open source', 'raspiberry pi', 'arduino'],
+  where: ['server side', 'embedded']
+  os: ['linux', 'windows', 'OSX'],
+  medium : 'https://medium.com/@doleron',
+}
+```
+
+### My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=doleron&show_icons=true&theme=gotham", alt="doleron" />
