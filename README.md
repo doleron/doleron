@@ -41,4 +41,6 @@ skils = {
 
 ### My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=doleron&show_icons=true&theme=gotham", alt="doleron"></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=doleron&show_icons=true&theme=gotham", alt="doleron"></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doleron&hide=html,css,scss,ruby&theme=tokyonight&langs_count=5)
