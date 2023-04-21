@@ -38,6 +38,7 @@ skils = {
   medium : 'https://medium.com/@doleron',
 }
 ```
+![](https://komarev.com/ghpvc/?username=doleron)
 
 ### My GitHub Stats
 
