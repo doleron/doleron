@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://www.linkedin.com/in/doleron/">
-  <img align="left" alt="doleron's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="doleron's Linkedin" width="22px" src="https://www.svgrepo.com/download/81143/linkedin.svg" />
 </a>
 
 <a href="https://www.kaggle.com/doleron">
