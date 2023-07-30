@@ -17,11 +17,15 @@ Here are some ideas to get you started:
 
 
 <a href="https://www.linkedin.com/in/doleron/">
-  <img align="left" alt="doleron's Linkedin" width="22px" src="https://www.svgrepo.com/download/81143/linkedin.svg" />
+  <img align="left" alt="doleron's Linkedin" width="32px" src="https://www.svgrepo.com/download/81143/linkedin.svg" />
 </a>
 
 <a href="https://www.kaggle.com/doleron">
-  <img align="left" alt="doleron's kaggle" height="22px" src="https://www.kaggle.com/static/images/site-logo.svg" />
+  <img align="left" alt="doleron's kaggle" height="32px" src="https://www.kaggle.com/static/images/site-logo.svg" />
+</a>
+
+<a href="https://medium.com/@doleron">
+  <img align="left" alt="doleron's medium" height="32px" src="https://miro.medium.com/v2/resize:fit:256/format:webp/1*Ra88BZ-CSTovFS2ZSURBgg.png" />
 </a>
 
 <br />
@@ -30,7 +34,7 @@ Here are some ideas to get you started:
 
 ```python
 skils = {
-  code: ['C++', 'java', 'JavaScript'],
+  cod: ['C++', 'java', 'JavaScript'],
   also_code : ['R', 'C', 'Python'],
   love: ['machine learning', 'AI', 'computer vision', 'open source', 'raspiberry pi', 'arduino'],
   where: ['server side', 'embedded']
