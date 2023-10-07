@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ### About Me
 
 ```python
-skils = {
+skills = {
   cod: ['C++', 'java', 'JavaScript'],
   also_code : ['R', 'C', 'Python'],
   love: ['machine learning', 'AI', 'computer vision', 'open source', 'raspiberry pi', 'arduino'],
