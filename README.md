@@ -27,8 +27,15 @@ Here are some ideas to get you started:
 <a href="https://medium.com/@doleron">
   <img align="left" alt="doleron's medium" height="32px" src="https://miro.medium.com/v2/resize:fit:256/format:webp/1*Ra88BZ-CSTovFS2ZSURBgg.png" />
 </a>
-
 <br />
+<br />
+<p style="background-color: red">
+==> A good scientist finds solutions for known problems.
+</p>
+<p>
+==> A great scientist finds questions where everything is truth.
+</p>
+
 
 ### About Me
 
