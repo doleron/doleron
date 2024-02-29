@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ```python
 skills = {
-  cod: ['C++', 'java', 'JavaScript'],
+  code: ['C++', 'java', 'JavaScript'],
   also_code : ['R', 'C', 'Python'],
   love: ['machine learning', 'AI', 'computer vision', 'open source', 'raspiberry pi', 'arduino'],
   where: ['server side', 'embedded']
