@@ -51,6 +51,9 @@ skills = {
 ```
 ![](https://komarev.com/ghpvc/?username=doleron) since April 21,2023
 
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doleron&layout=compact&theme=rose_pine&hide=jupyter%20notebook,javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
 ### My GitHub Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=doleron&show_icons=true&theme=gotham", alt="doleron"></p>
