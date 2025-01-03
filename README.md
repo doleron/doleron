@@ -30,10 +30,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 <p style="background-color: red">
-==> A good scientist finds solutions for known problems.
-</p>
-<p>
-==> A great scientist finds questions where everything is truth.
+science is about making questions, good questions, questions that open doors to new worlds, new alternatives. Science is hope. Hope that always there exist new things to think about and figure out.
 </p>
 
 
