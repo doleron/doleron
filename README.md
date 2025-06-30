@@ -38,12 +38,12 @@ science is about making questions, good questions, questions that open doors to 
 
 ```python
 skills = {
-  code: ['C++', 'java', 'JavaScript'],
+  code: ['C++', 'Java', 'JavaScript'],
   also_code : ['R', 'C', 'Python'],
-  love: ['machine learning', 'AI', 'computer vision', 'open source', 'raspiberry pi', 'arduino'],
+  love: ['machine learning', 'AI', 'computer vision', 'open source', 'Raspberry Pi', 'Arduino'],
   where: ['server side', 'embedded']
   os: ['linux', 'windows', 'OSX'],
-  medium : 'https://medium.com/@doleron',
+  medium: 'https://medium.com/@doleron',
 }
 ```
 ![](https://komarev.com/ghpvc/?username=doleron) since April 21,2023
