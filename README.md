@@ -29,8 +29,11 @@ Here are some ideas to get you started:
 </a>
 <br />
 <br />
+<br />
+<p><a href="https://www.academia.org.br/academicos/olavo-bilac/textos-escolhidos">"Ora, (direis) ouvir estrelas!"</a></p>
+<br />
 <p style="background-color: red">
-science is about making questions, good questions, questions that open doors to new worlds, new alternatives. Science is hope. Hope to support the belief that always there exist new things to think, to find and figure out.
+Science is about making questions, good questions, questions that open doors to new worlds, new alternatives. Science is hope. Hope to support the belief that always there exist new things to think, to find, and figure out.
 </p>
 
 
